@@ -1,0 +1,6 @@
+framework module Pods_smilechat {
+  umbrella header "Pods-smilechat-umbrella.h"
+
+  export *
+  module * { export * }
+}
